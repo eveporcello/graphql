@@ -4,7 +4,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="200" alt="graphql logo"/>
 </p>
 
-Thanks for being part of the GraphQL meetup in NYC! Here are some resources that you can use to continue your work with GraphQL.
+Thanks for being part of the GraphQL meetup! Here are some resources that you can use to continue your work with GraphQL.
 
 ## Useful Links
 
